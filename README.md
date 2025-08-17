@@ -1,6 +1,6 @@
 # TelecomXAlura
 
-TelecomX ETL - Processamento de Dados de Telecomunicações
+TelecomX ETL - Processamento de Dados
 📌 Visão Geral
 
 Este projeto realiza o Processamento ETL (Extração, Transformação e Carga) de dados de telecomunicações a partir de um arquivo JSON (TelecomX_Data.json).
